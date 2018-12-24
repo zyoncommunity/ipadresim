@@ -1,0 +1,56 @@
+Uri: http://ipbak.com/ip-sorgulama.php
+File Name: c:\Downloaded Web Sites\ipbak.com\ip-sorgulama.html
+Content Type: text/html
+
+Uri: http://ipbak.com/ip.css
+File Name: c:\Downloaded Web Sites\ipbak.com\ip.css
+Content Type: text/css
+
+Uri: http://ipbak.com/favicon.png
+File Name: c:\Downloaded Web Sites\ipbak.com\favicon.png
+Content Type: image/png
+
+Uri: http://ipbak.com/
+File Name: c:\Downloaded Web Sites\ipbak.com\index.html
+Content Type: text/html
+
+Uri: http://ipbak.com/ip-blacklist-sorgulama-kontrol-check.php
+File Name: c:\Downloaded Web Sites\ipbak.com\ip-blacklist-sorgulama-kontrol-check.html
+Content Type: text/html
+
+Uri: http://ipbak.com/ip-nedir.php
+File Name: c:\Downloaded Web Sites\ipbak.com\ip-nedir.html
+Content Type: text/html
+
+Uri: http://ipbak.com/loading.gif
+File Name: c:\Downloaded Web Sites\ipbak.com\loading.gif
+Content Type: image/gif
+
+Uri: http://ipbak.com/jquery-1-9-1.js
+File Name: c:\Downloaded Web Sites\ipbak.com\jquery-1-9-1.js
+Content Type: application/javascript
+
+Uri: http://ipbak.com/google.js
+File Name: c:\Downloaded Web Sites\ipbak.com\google.js
+Content Type: application/javascript
+
+Uri: http://ipbak.com/ip-bak.png
+File Name: c:\Downloaded Web Sites\ipbak.com\ip-bak.png
+Content Type: image/png
+
+Uri: http://ipbak.com/dinamic-ip-nedir.php
+File Name: c:\Downloaded Web Sites\ipbak.com\dinamic-ip-nedir.html
+Content Type: text/html
+
+Uri: http://ipbak.com/static-ip-nedir.php
+File Name: c:\Downloaded Web Sites\ipbak.com\static-ip-nedir.html
+Content Type: text/html
+
+Uri: http://ipbak.com/ip-adresi-degistirme.php
+File Name: c:\Downloaded Web Sites\ipbak.com\ip-adresi-degistirme.html
+Content Type: text/html
+
+Uri: http://ipbak.com/ip-den-adres-bulma.php
+File Name: c:\Downloaded Web Sites\ipbak.com\ip-den-adres-bulma.html
+Content Type: text/html
+

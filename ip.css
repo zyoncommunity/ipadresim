@@ -1,0 +1,68 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;vertical-align:baseline;font:inherit;font-size:100%;}
+ol,ul{list-style:none;}
+body{background:#ffffff;font-family:Arial, Helvetica, Tahoma;font-size:11px;direction:ltr;}
+a{outline:none;text-decoration:none;cursor:pointer;font-weight:normal;color:#0006ff;}
+a:hover{text-decoration:underline;}
+input,button{font-family:Arial, Helvetica, Tahoma;font-size:12px;color:#008000;}
+button{cursor:pointer;border:none;color:#ffffff;background:#0072c6;}
+button:hover{background:#1e82cc;}
+input{padding:10px 5px;width:175px;border:1px solid #d5d5d5;margin:0;}
+h2{margin:0 0 3px 0;}
+strong{font-weight:bold;}
+h1.title{font-weight:bold;font-size:14px;margin:0 0 10px 0;}
+.clr{clear:both;}
+.container{margin:5% auto 0 auto;width:790px;}
+.header{margin:0 0 30px 0;}
+.logo{background:url(ip-bak.png) no-repeat;width:247px;height:126px;margin:0 auto;display:block;text-indent:-9999px;}
+.header_navigation{margin:40px auto 0 auto;width:360px;}
+.header_navigation li{float:left;margin:0 5px;padding:0 3px;}
+.header_navigation a{font-size:12px;}
+.content_top{width:100%;border-bottom:1px solid #d5d5d5;padding:0 0 5px 0;margin:0 0 30px 0;}
+.ip_no{border:1px solid #d5d5d5;height:115px;text-align:center;}
+.ip_no p{font-size:100px;}
+.article p{margin:0 0 10px 0;color:#696969;}
+.user_panel{min-height:57px;}
+.bottom_left{float:left;width:280px;}
+.bottom_left ul{float:left;}
+.button{width:135px;height:37px;font-size:14px;float:left;}
+.flash{margin:0 10px 0 0;}
+.hover{background:#1e82cc;}
+.visitor_ip_query{float:left;}
+.my_ip_content{margin:20px 0 0 0;}
+.detail_table{width:365px;float:left;}
+.detail_table thead{font-weight:bold;font-size:13px;}
+.detail_table td{padding:7px 10px;background:#f5f5f4;border-bottom:1px solid #ffffff;}
+.detail_title{text-align:right;font-weight:bold;border-right:1px solid #ffffff;}
+#my_ip_geo{float:right;}
+.bottom_right{float:right;width:458px;}
+.message_table td{padding:0 0 0 3px;}
+.send_mail{width:75px;height:37px;font-size:14px;}
+.footer{margin:10px 0 0 0;height:52px;}
+.copy{float:left;height:15px;margin:0 0 10px 0;}
+.blink{float:right;}
+.google{height:27px;}
+.ip_no_query_again{float:left;}
+.out_ip{float:right;}
+.out_ip strong{color:#ff0000;}
+
+.query_table{margin:0 0 20px 0;}
+.query_input{width:383px;padding:14px;}
+.query_button{width:135px;height:45px;margin:0 0 0 3px;}
+.query_form{width:550px;margin:0 auto;}
+.show_ip{margin:0 0 3px 0;}
+.result_table{width:550px;margin:0 auto;}
+.result_table thead{font-weight:bold;font-size:13px;}
+.result_table td{padding:7px 10px;background:#f5f5f4;border-bottom:1px solid #ffffff;}
+.result_title{text-align:right;font-weight:bold;border-right:1px solid #ffffff;}
+
+.artical_menu{float:left;width:135px;}
+.artical_menu li{padding:0 0 10px 0;}
+.article{float:right;width:640px;border-left:1px solid #d5d5d5;padding:0 0 0 10px;}
+.selected{color:#feb90d;}
+
+.blacklist_table{width:550px;margin:0 auto;border-top:1px solid #d5d5d5;border-left:1px solid #d5d5d5;}
+.blacklist_table thead{font-weight:bold;font-size:13px;background:#f5f5f4;}
+.blacklist_table td{padding:7px 10px;border-bottom:1px solid #d5d5d5;border-right:1px solid #d5d5d5;text-align:center;}
+
+#loading{display:none;}
+#loading img{display:block;width:150px;margin:0 auto;}
